@@ -11,16 +11,17 @@ Our guiding question this week: what do we mean we we talk about "intelligence"?
 
 ## Tuesday, August 27, 2024
 
-- Categorizing answers to the question "What is intelligence?"
+- Agents and environments
+- Rational agents
+- Exercise: vacuum cleaner agent
 
 ## Wednesday, August 28, 2024
 
-- Agents and environments
-- How to think like a robot vacuum cleaner
+- Introducing Python boot camp & JupyterHub
 
 ## Thursday, August 29, 2024
 
-- Pseudo-coding the elements of a basic intelligent agent
+- Work on initial boot camp notebooks
 
 ## Friday, August 30, 2024
 
