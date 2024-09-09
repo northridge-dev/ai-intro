@@ -54,6 +54,7 @@ Less-beginner group:
 Beginner group:
 
 - Work through the fourth notebook (math)
+- Kruckenberg to meet with small groups for review
 
 Less-beginner group:
 
