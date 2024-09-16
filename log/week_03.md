@@ -36,4 +36,4 @@ NO CLASS: floater 6
 
 ## Friday, September 13, 2024
 
-puzzle day
+puzzle day: pancake numbers
