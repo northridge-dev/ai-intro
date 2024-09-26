@@ -2,6 +2,8 @@
 
 This week, we're going to try to write some code to find pancake numbers.
 
+To get to the Python notebooks we'll be using, follow [this link](https://py.northridge.dev/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnorthridge-dev%2Fpancake-number&urlpath=tree%2Fpancake-number%2F0_pancake.ipynb&branch=main).
+
 - we'll get to start using some of the tools we've been working so hard to
   master.
 - we'll practice **decomposing** a big, complex problem into smaller, more
