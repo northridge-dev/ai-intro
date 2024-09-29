@@ -5,13 +5,13 @@ search problems because we'll look at another search problem next: solving mazes
 
 ## Monday, September 30, 2024
 
-- Pancake problem: generating all flips (next states)
-- Generators
+Generators
+  - quick look: generating permutations
+  - generating all flips (next states)
 
 ## Tuesday, October 1, 2024
 
 - Pancake problem
-  - Quick look: generating permutations
   - Finding the minimum flips for a permutation
   - Putting together a full solution
 
