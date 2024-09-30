@@ -1,6 +1,6 @@
 # Week 6 - 2024-09-30 to 2024-10-04
 
-We'll wrap up our work on the pancake number problem. We want to learn what we can about 
+We'll wrap up our work on the [pancake number problem](https://py.northridge.dev/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fnorthridge-dev%2Fpancake-number&urlpath=tree%2Fpancake-number%2F0_pancake.ipynb&branch=main). We want to learn what we can about 
 search problems because we'll look at another search problem next: solving mazes!
 
 ## Monday, September 30, 2024
