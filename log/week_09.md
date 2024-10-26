@@ -12,17 +12,22 @@ Quarter 1 Retro:
 - What went well?
 - What could be improved? How?
 
+- Reading code: the `Maze` class
+
 ## Wednesday, October 23, 2024
 
 Short class (33 minutes, 2:04-2:37)
 
-- Reading code: the `Maze` class
-
-## Thursday, October 24, 2024
-
 - Stacks vs. Queues
 - Building the `Frontier` classes
 
+## Thursday, October 24, 2024
+
+- Project ideas, what do we want to do next?
+
+- Building the `Frontier` classes (continued)
+
 ## Friday, October 25, 2024
 
-- Building the `Solver` class
+- 20% day
+- Project proposals
