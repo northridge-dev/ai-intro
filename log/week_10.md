@@ -16,7 +16,7 @@ Maze Solver
 
 ## Wednesday, October 30, 2024
 
-- Introducing deep learning: build a simple image classifier
+- Review: search
 
 ## Thursday, October 31, 2024
 
