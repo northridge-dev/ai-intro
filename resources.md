@@ -11,5 +11,17 @@
 
 ## Introduction to Machine Learning
 
+### Notebooks Used in Class
+
 - [Cat and Dog Classifier](https://colab.research.google.com/github/kruckenberg/fastai-course/blob/master/clean/0-first-model-dog-or-cat.ipynb) (Colab)
 - [Bird, forest classifier (and build your own)](https://www.kaggle.com/code/nkruckenberg/is-it-a-bird-creating-a-model-from-your-own-data/edit) (Kaggle)
+
+### General
+
+- Fast.ai
+  - [Practical Deep Learning for Coders](https://course.fast.ai/) (course)
+  - Book:
+    - [Colab Notebook version](https://colab.research.google.com/github/fastai/fastbook)
+    - [GitHub repo](https://github.com/fastai/fastbook)
+- [3Blue1Brown Neural Networks Video Series](https://www.3blue1brown.com/topics/neural-networks)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Michael Nielsen book)
