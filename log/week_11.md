@@ -23,6 +23,4 @@ Hall Fest: short class (29 minutes, 12:37 - 1:06)
 
 ## Friday, November 8, 2024
 
-Start a deeper dive into how neural networks work
-
-- Classifying handwritten digits: the MNIST dataset
+- Continue working on your own image classifier
