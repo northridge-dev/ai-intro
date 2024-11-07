@@ -20,8 +20,11 @@ A chess engine that can win against humans.
 - Patrick
 - Jay
 - Rayhan
+- Jayden
 
 ## Stock Screener
+
+A tool that fetches and filters stock data.
 
 - Remy
 - Kevin
@@ -31,5 +34,3 @@ A chess engine that can win against humans.
 - Xavier
 - Thomas
 - Miguel
-
--- Jayden?
