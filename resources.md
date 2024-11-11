@@ -15,6 +15,7 @@
 
 - [Cat and Dog Classifier](https://colab.research.google.com/github/kruckenberg/fastai-course/blob/master/clean/0-first-model-dog-or-cat.ipynb) (Colab)
 - [Bird, forest classifier (and build your own)](https://www.kaggle.com/code/nkruckenberg/is-it-a-bird-creating-a-model-from-your-own-data/edit) (Kaggle)
+- [Judging a book by its cover](https://www.kaggle.com/code/nkruckenberg/fiction-v-non-fiction-cover-classifier/edit)
 
 ### General
 
