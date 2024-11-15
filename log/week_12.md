@@ -2,8 +2,8 @@
 
 ## Monday, November 11, 2024
 
-- Finish fine-tuning image classifiers
-- Image classifier demos??
+- New image classifier example: [judging a book by its cover](https://www.kaggle.com/code/nkruckenberg/fiction-v-non-fiction-cover-classifier/edit)
+- work on image classifiers
 
 ## Tuesday, November 12, 2024
 
@@ -11,15 +11,13 @@ NO CLASS: floater 6
 
 ## Wednesday, November 13, 2024
 
-- How to use GitHub and Codespaces
-- 20% day
+- work on image classifiers
 
 ## Thursday, November 14, 2024
 
-Start a deeper dive into how neural networks work
-
-- Classifying handwritten digits: the MNIST dataset
+- finish image classifiers
 
 ## Friday, November 15, 2024
 
-- Continue working with the MNIST dataset
+- How to use GitHub and Codespaces
+- 20% day
