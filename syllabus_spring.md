@@ -4,103 +4,109 @@ v. 2.0.0
 
 ## Course Details
 
-[Northridge Prep](https://northridgeprep.org)
-Spring 2025
+[Northridge Prep](https://northridgeprep.org) Spring 2025
 
 Dr. Nicholas Kruckenberg
 [nkruckenberg@northridgeprep.org](mailto:nkruckenberg@northridgeprep.org)
 
 ## Course Description
 
-In the second semester of this year-long course, you will learn to code
-(or code better) by creating programs that exhibit **intelligence** in
-meaningful ways. We'll use our experience building intelligent systems to
-ground philosophical discussions about the nature of intelligence and what
-the existence of machine intelligence means for us humans.
+In the second semester of this year-long course, we'll learn about artificial
+intelligence by trying to recreate Google's NotebookLM. We'll learn about neural
+networks, build and train a large language model from scratch, and implement a
+retrieval-augmented generation system. If there's time, we'll also try to build
+our own NotebookLM-like podcast generator. Along the way, we'll learn a thing or
+two (or three) about Python, databases, APIs, web servers and the process of
+building complex software.
+
+We'll also read some papers, articles, and blog posts and use our experience
+building intelligent systems to ground philosophical discussions about the
+nature of intelligence and what the existence of machine intelligence means for
+us humans.
 
 ## Goals
 
-### Artificial Intelligence
-
-1. Be able to articulate what it means for a machine or system to be
-   _intelligent_.
-2. Understand and be able to implement a variety of techniques for building
-   intelligent systems.
-
-### Python Programming
-
-1. Learn a little about how computers work and how your code _programs_ them.
-2. Write some non-trivial code in Python.
-3. Practice writing good code: elegant, efficient, robust, etc.
-4. Practice reading and assessing code and offering constructive feedback.
-5. Build your problem-solving muscles. We'll focus on a few techniques:
+1. Understand how a large language model works, their abilities and limitations.
+2. Understand how semantic search works and how it can be used to augment a
+   large language model.
+3. Articulate what it means for a machine or system to be _intelligent_.
+4. (With help) build components of a sophisticated software system.
+5. Become a stronger programmer.
+6. Develop your problem-solving muscles. We'll focus on a few techniques:
 
    - _decomposing_ big problems into smaller, more tractable ones
    - using _abstraction_ to manage complexity
 
-6. Improve your ability to communicate technical concepts and decisions to both
+7. Improve your ability to communicate technical concepts and decisions to both
    technical and non-technical audiences.
-
-Put another way, by the end of the course, you should be able to:
-
-- write an interesting program,
-- understand how it works, what is good or inventive or craftsman-like in it,
-  and how it can be improved,
-- and explain it and your design to both me and your parents / grandparents /
-  friends who weren't brave or wise or lucky enough to take this course.
 
 ## The Plan
 
-Here's my best guess about how we'll organize ourselves and use our time. We'll
-tweak the plan as we go.
+We'll spend the majority of each week building KnotebookLM (our version of
+Google's NotebookLM). Even for professional developers, it's hard to say how
+long it will take to create complex software or how it will unfold. We'll build
+as fast as we can. But we'll also take time to read, discuss, and experiment.
 
-### The Work
+I will publish a more detailed plan at the beginning of each week, but here is a
+rough sketch of the plan:
 
-In class, I will demonstrate concepts and techniques and step through examples
-and solutions. You're expected to follow closely and ask questions.
+1. high-level design of KnotebookLM
+2. precursors: text generation before neural networks (to better judge what it
+   means to say that a large language model is "just" a next-word predictor)
+3. neural network basics
+4. build and train a large language model
 
-Otherwise, you'll usually be coding, typically working on projects to explore
-central concepts and techniques in artificial intelligence.
+   - preparing text for training
+   - coding the neural network and transformer architecture
+   - pretraining the model
+   - fine-tuning the model
+   - evaluating the model
 
-Homework, when it is assigned, will typically require reading or watching videos
-to introduce or expand on material we'll cover in class. Occasionally, you may
-need to work on coding projects outside of class.
-
-### Differentiation
-
-Some of you are new to coding, some of you have a little experience, and some of
-you have considerable experience. Here's how we'll keep the everyone challenged
-without leaving anyone behind.
-
-- Exercises are meant to be self-paced.
-- Projects will have a core set of requirements and challenges or extension for
-  anyone ready to stretch further or go deeper.
-
-### Topics
-
-Here's a very rough sketch of the topics we'll cover:
-
-1. Informed search techniques
-2. Uncertainty and probability
-3. Machine learning
-
-   - classic machine learning (regression, decision trees, etc.)
-   - neural networks, deep learning
-
-4. Generative AI (LLMs and diffusion models)
-
-I will publish a plan for the week before each week's first class.
+5. swap out our language model for more powerful models; using APIs
+6. adding notebook sources; start with text
+7. producing summaries of notebook sources
+8. storing generated artifacts
+9. asking questions of notebook sources; searching sources
+10. storing chat sessions
+11. adding other tools: e.g., generate follow up questions, study guides, etc.
+12. adding other source types: e.g., PDFs, websites, images, audio, video
+13. generate podcast scripts; more about fine-tuning (for personality, etc.)
+14. generate, store, and play podcast audio
 
 ## Grades
 
-Your quarter and semester grades will be determined as follows:
+Quarter and semester grades will be composed of the following elements and
+assigned according to the Northridge grading scale.
 
-- 40% projects, project presentations, in-class assignments, and homework
-- 40% quizzes and tests (approximately 4 or 5 per quarter, some cumulative)
-- 20% capstone project
+### Journal Club (20%, equally weighted)
 
-Quarter and semester grades will be assigned according to the Northridge
-grading scale.
+Most weeks, you'll read a paper, article, transcript, or blog post outside of
+class and discuss it in class. Your grade will be determined by a short in-class
+writing assignment and discussion participation. (~15 equally weighted grades)
+
+### Code Contributions (40%, equally weighted)
+
+You'll submit a pull request -- your code and a detailed explanation of how it
+works -- for each module we build. At least once, you'll be asked to present
+your pull request to the class. Pull requests will be judged on code quality and
+the clarity and accuracy of your technical descriptions. I'll select one or more
+strong versions of each module to merged into the shared codebase. (?? equally
+weighted grades)
+
+### Blog Posts (10% + 10%)
+
+You'll write two blog posts:
+
+- a technical write up about a project module
+- an elaboration of one of our journal club discussions
+
+These blog posts will be published for the world to read. I'll share the
+schedule and grading criteria early in the semester.
+
+### Exams (10% + 10%)
+
+You'll write two exams, one at the end of each quarter. Each exam will consist
+of coding questions and short answer/essay questions.
 
 ## Materials
 
@@ -117,9 +123,11 @@ Please bring to class every day:
   - daily logs, schedules, notes, resources, exercises and assignments
   - some features require logging in with your Northridge credentials
 
-Web-based tools for which you'll need an account. Some require phone verification.
+Web-based tools for which you'll need an account. Some require phone
+verification.
 
 - [GitHub](https://github.com)
+- [Hugging Face](https://huggingface.co)
 - [Kaggle](https://kaggle.com)
 - [Google Colab](https://colab.research.google.com)
 
@@ -127,8 +135,8 @@ Web-based tools for which you'll need an account. Some require phone verificatio
 
 Follow the Computer and Network Technology policy in the student handbook.
 
-If you feel like you need to hide your screen, switch tabs or windows, or
-clear your browser history, you're falling short of the mark.
+If you feel like you need to hide your screen, switch tabs or windows, or clear
+your browser history, you're falling short of the mark.
 
 ## A Note on Generative AI and Other Code You Didn't Write
 
@@ -136,8 +144,9 @@ We wouldn’t be able to build very interesting projects if we had to write ever
 line of code ourselves. Indeed, almost all software development depends on code
 that developers share with each other, often for free.
 
-It’s fairly easy to find or generate code that can satisfy all or part of your
-assignments. We’ll spend time learning how to learn from and responsibly use
-such tools. So don't be afraid to tell us where you got an idea, trick, or technique.
-I'm most interested in your ability to thoroughly explain your code. If you can't
-explain it, it isn't really yours, at least not in the ways that matter most.
+It’s fairly easy to find or generate code or prose that can satisfy all or part
+of your assignments. We’ll spend time learning how to learn from and responsibly
+use such tools. So don't be afraid to tell us where you got an idea, trick, or
+technique. I'm most interested in your ability to thoroughly explain your code.
+If you can't explain it, it isn't really yours, at least not in the ways that
+matter most.
