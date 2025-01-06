@@ -21,18 +21,18 @@ building complex software.
 
 We'll also read some papers, articles, and blog posts and use our experience
 building intelligent systems to ground philosophical discussions about the
-nature of intelligence and what the existence of machine intelligence means for
+nature of intelligence and what the existence of intelligent machines means for
 us humans.
 
 ## Goals
 
 By the end of the semester, you should:
 
-1. Understand how a large language model works, their abilities and limitations.
+1. Understand how a large language models work, their abilities and limitations.
 2. Understand how semantic search works and how it can be used to augment a
    large language model.
 3. Articulate what it means for a machine or system to be _intelligent_.
-4. (With help) build components of a sophisticated software system.
+4. (With help) build components of a complex software system.
 5. Become a stronger programmer.
 6. Develop your problem-solving muscles. We'll focus on a few techniques:
 
@@ -44,18 +44,17 @@ By the end of the semester, you should:
 
 ## The Plan
 
-We'll spend the majority of each week building KnotebookLM (our version of
-Google's NotebookLM). Even for professional developers, it's hard to say how
-long it will take to develop complex software or how exactly it will unfold.
-We'll build as fast as we can. But we'll also take time to experiment, read, and
-discuss.
+We'll spend most of our time building KnotebookLM (our version of Google's
+NotebookLM). We'll build as fast as we can, but we'll also take time to
+experiment, read, and discuss.
 
-I will publish a more detailed plan at the beginning of each week, but here is a
-rough sketch of the plan:
+I will publish a more detailed schedule at the beginning of each week, but here
+is a rough sketch of the plan:
 
 1. high-level system design of KnotebookLM
-2. precursors: text generation before neural networks (to better judge what it
-   means to say that a large language model is "just" a next-word predictor)
+2. precursors: summarization and text generation before neural networks (to
+   better judge what it means to say that a large language model is "just" a
+   next-word predictor)
 3. neural network basics
 4. build and train a large language model
 
@@ -65,16 +64,15 @@ rough sketch of the plan:
    - fine-tuning the model
    - evaluating the model
 
-5. swap out our language model for more powerful models; using APIs
-6. adding notebook sources; start with plain text
-7. producing summaries of notebook sources
-8. storing generated artifacts
-9. asking questions of notebook sources; searching sources
-10. storing chat sessions
-11. adding other tools: e.g., generate follow up questions, study guides, etc.
-12. adding other source types: e.g., PDFs, websites, images, audio, video
-13. generate podcast scripts; more about fine-tuning (for personality, etc.)
-14. generate, store, and play podcast audio
+5. adding notebook sources; start with plain text
+6. producing summaries of notebook sources (using more powerful models via API)
+7. storing generated artifacts
+8. asking questions of notebook sources; searching sources
+9. storing chat sessions
+10. adding other tools: e.g., generate follow up questions, study guides, etc.
+11. adding other source types: e.g., PDFs, websites, images, audio, video
+12. generate podcast scripts; more about fine-tuning (for personality, etc.)
+13. generate, store, and play podcast audio
 
 ## Grades
 
@@ -83,9 +81,9 @@ assigned according to the Northridge grading scale.
 
 ### Journal Club (20%)
 
-Most weeks, you'll read a paper, article, transcript, or blog post outside of
-class and discuss it in class. Your grade will be determined by a short in-class
-writing assignment and discussion participation. (~15 equally weighted grades)
+Most weeks, you'll read a paper, article, or blog post outside of class and
+discuss it in class. You'll be graded on a short in-class writing assignment and
+discussion participation. (~15 equally weighted grades)
 
 ### Code Contributions (40%)
 
@@ -93,7 +91,7 @@ You'll submit a pull request -- your code and a detailed explanation of how it
 works -- for each module we build. At least once, you'll be asked to present
 your pull request to the class. Pull requests will be judged on code quality and
 the clarity and accuracy of your technical descriptions. I'll select one or more
-strong versions of each module to merged into the shared codebase. (~10 equally
+strong versions of each module to merge into the shared codebase. (~10 equally
 weighted grades)
 
 ### Blog Posts (20%)
@@ -121,10 +119,11 @@ Please bring to class every day:
 
 ## Tools
 
-- [Northridge Dev](https://northridge.dev)
-
-  - daily logs, schedules, notes, resources, exercises and assignments
-  - some features require logging in with your Northridge credentials
+- [Northridge Dev](https://northridge.dev): https://northridge.dev
+- [KnotebookLM](https://knotebooklm.northridge.dev):
+  https://knotebooklm.northridge.dev
+- [KnotebookLM blog](https://knotebooklm.github.io):
+  https://knotebooklm.github.io
 
 Web-based tools for which you'll need an account. Some require phone
 verification.
@@ -143,5 +142,5 @@ your browser history, you're falling short of the mark.
 
 ## AI as a Tool for Learning and Building
 
-We'll explore how best to use artificial intelligence to learn about and build
-our own AI learning tool.
+We'll explore how best to use artificial intelligence to learn about AI and
+build our own AI learning tool.
