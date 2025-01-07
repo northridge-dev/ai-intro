@@ -17,7 +17,9 @@ NO CLASS: Christmas Break
 ## Thursday, January 9, 2025
 
 - Overview of machine learning (continued)
+- Introducing "Computing Machinery and Intelligence"
 
 ## Friday, January 10, 2025
 
-- Journal Club: _Computing Machinery and Intelligence_ (Turing)
+- Journal Club: Turing,
+  [Computing Machinery and Intelligence](https://github.com/northridge-dev/ai-intro/blob/main/journal-club/01_turing_computing_machinery_intelligence.pdf)
