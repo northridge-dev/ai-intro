@@ -10,23 +10,14 @@ NO CLASS: Martin Luther King Jr. Day
 
 ## Wednesday, January 22, 2025
 
-- Ngram text generator: ngram model
+- Ngram text generator: tokenizers, ngram builder
 
 ## Thursday, January 23, 2025
 
-- Ngram text generator: generating text with ngram model
+- Ngram text generator: tokenizers, ngram builder
 
 ## Friday, January 24, 2025
 
-Journal Club:
+Journal Club moved to Monday, January 27
 
-- ARC Prize [website](https://arcprize.org)
-- excerpts from Chollet,
-  [_Measure of Intelligence_](https://github.com/northridge-dev/ai-intro/blob/main/journal-club/02_chollet_measure_of_intelligence.pdf)
-  - abstract (1 p)
-  - I.1 Need for an actionable definition and measure of intelligence
-  - I.2 Defining Intelligence: two divergent visions
-  - I.3.2 The spectrum of generalization: robustness, flexibility, generality
-  - II.1 Critical assessment
-  - II.2.1 Intelligence as skill-acquisition efficiency (first page or so only,
-    up to "Position of the problem")
+- Ngram text generator: ngram model
