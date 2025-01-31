@@ -27,7 +27,7 @@ NO CLASS: Floater 6
 
 (Bard Competition: 33 minute class)
 
-- Ngram text generator: generating text with ngram model
+- Ngram text generator: ngram model, generating text
 
 ## Friday, January 31, 2025
 
