@@ -9,8 +9,8 @@ NO CLASS: floater 6
 Continue LangChain
 [RAG tutorial](https://python.langchain.com/docs/tutorials/rag/)
 
-- [notes](https://python.langchain.com/docs/tutorials/rag/)
-- notebook (forthcoming)
+- [repo](https://github.com/northridge-dev/langchain-rag-tutorial/blob/main/LangChainRAG-1.ipynb)
+- [open in Colab](https://colab.research.google.com/github/northridge-dev/langchain-rag-tutorial/blob/main/LangChainRAG-1.ipynb)
 
 ## Wednesday, February 26, 2025
 
