@@ -10,15 +10,16 @@ RAG service:
 
 RAG service:
 
-- UI code walk-through
-- Submit your `/new` endpoint for pull request, code review
+- ~UI code walk-through~
+- Submit your `/new` endpoint for pull request, code review (update: deadline
+  postponed)
 
 ## Wednesday, April 9, 2025
 
 RAG service:
 
-- Wiring up the UI and RAG service
-- Missing: authentication!
+- ~Wiring up the UI and RAG service~
+- Add `notebook_id` param
 
 ## Thursday, April 10, 2025
 
